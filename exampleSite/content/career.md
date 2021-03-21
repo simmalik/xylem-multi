@@ -44,7 +44,7 @@ funfacts:
     content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
     
 ########### Career ############
-career:
+about:
   enable : true
   title : "Job Opening"
   job_item:
