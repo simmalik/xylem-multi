@@ -74,4 +74,4 @@ call_to_action:
   enable : true
   title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
   button_label : "Apply Now"
-  button_link : "career"
+  button_link : "about"

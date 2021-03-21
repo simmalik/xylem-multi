@@ -1,6 +1,6 @@
 ---
-title : "Career"
-layout: "career"
+title : "About"
+layout: "about"
 description: "Do what you enjoy, invest for your future and reap the benefits of working with the worlds first advancement company that puts people first."
 
 

@@ -10,10 +10,10 @@ sections:
   path: exampleSite/data/homepage.yml
   label: Homepage
 - type: heading
-  label: Career
+  label: About
 - type: document
   path: exampleSite/content/career.md
-  label: Career
+  label: About
 - type: heading
   label: All Pages
 - type: directory

@@ -10,8 +10,8 @@ name = "Contact"
 pre = "#"
 weight = 4
 [[menu.main]]
-URL = "career"
-name = "Career"
+URL = "about"
+name = "About"
 pre = ""
 weight = 3
 [[menu.main]]
